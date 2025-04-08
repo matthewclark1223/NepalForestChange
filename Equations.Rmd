@@ -1,0 +1,44 @@
+---
+title: "Equations"
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
+date: "2025-03-12"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+$$
+\begin{aligned}
+    Y_i &\sim \text{ZIB}(\mu_i, \phi, \pi) \quad \text{(Zero-Inflated Beta Distribution)} \\
+    \text{logit}(\mu_i) &= \alpha0 + \beta1 \text{Deprvtn}_i +  \beta2 \text{PrecipAnom}_i + \beta3 \text{CommFrst}_i \\
+   &\quad + \beta4 \text{Migration}_i + \beta5 \text{PreGapArea}_i +  \beta6 \text{Ppl2022}_i +  \beta7 \text{RoadDensity}_i \\
+    &\quad  + \beta8 \text{PrecipAnom}_i \cdot \text{CommFrst}_i + \beta9 \text{PrecipAnom}_i \cdot \text{Deprvtn}_i \\
+    &\quad + \beta10 \text{Slope}_i+ \beta0_{j} + \beta0_{k(j)} + \beta0_{m(k,j)}   \\
+    \\
+     &\quad  \beta0_{j} \sim \text{Norm}(\alpha0,\sigma_j)\\
+    &\quad  \beta0_{k(j)} \sim \text{Norm}(\beta0_{j},\sigma_k)\\
+    &\quad  \beta0_{m(k,j)} \sim \text{Norm}(\beta0_{k(j)},\sigma_m)\\
+    
+    
+\end{aligned}
+$$
+
+
+$$
+\begin{aligned}
+     Y_i &\sim \text{ZIB}(\mu_i, \phi, \pi) \quad \text{(Zero-Inflated Beta Distribution)} \\
+    \text{logit}(\mu_i) &= \alpha0 + \beta1 \text{Deprvtn}_i + \beta2 \text{CommFrst}_i + \beta3 \text{Migration}_i\\
+   &\quad  +  \beta4 \text{Ppl2015}_i +  \beta5 \text{RoadDensity}_i+ \beta6 \text{Slope}_i \\
+    &\quad + \beta0_{j} + \beta0_{k(j)} + \beta0_{m(k,j)}   \\
+    \\
+     &\quad  \beta0_{j} \sim \text{Norm}(\alpha0,\sigma_j)\\
+    &\quad  \beta0_{k(j)} \sim \text{Norm}(\beta0_{j},\sigma_k)\\
+    &\quad  \beta0_{m(k,j)} \sim \text{Norm}(\beta0_{k(j)},\sigma_m)\\
+    
+    
+\end{aligned}
+$$
