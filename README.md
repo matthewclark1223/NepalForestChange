@@ -47,17 +47,17 @@ There are four categories of scripts used in this paper: 1) Data acquisition and
 * Migration_2000_2019_5yrSum.tif - Human migration raster. THIS FILE IS TOO LARGE FOR GITHUB CREATE YOURELF WITH THE PROVIDED CODE OR CONTACT THE AUTHOR FOR ACCESS
 * landscan-global-2022.tif - Human population raster. THIS FILE IS TOO LARGE FOR GITHUB CREATE YOURELF WITH THE PROVIDED CODE OR CONTACT THE AUTHOR FOR ACCESS
 * hotosm_npl_roads_lines_shp.shp - Roads shapefile. THIS FILE IS TOO LARGE FOR GITHUB CREATE YOURELF WITH THE PROVIDED CODE OR CONTACT THE AUTHOR FOR ACCESS
-* NepalSlope.tif - Topographic slope raster
+* NepalSlope.tif - Topographic slope raster. THIS FILE IS TOO LARGE FOR GITHUB CREATE YOURELF WITH THE PROVIDED CODE OR CONTACT THE AUTHOR FOR ACCESS
 * Migration_by_VDC.shp - Migration summarized to VDC
 * Population2022_by_VDC.shp - Population in 2022 summarized to VDC
 * Population2015_by_VDC.shp - Population in 2015 summarized to VDC
 * road_density_by_VDC.shp - Road density summarized to VDC
 * Deprivation_by_VDC.shp - Deprivation summarized to VDC
 * Slope_by_VDC.shp - Slope summarized to VDC
-* AllForestGaps.shp - All forest gap patches
+* AllForestGaps.shp - All forest gap patches. THIS FILE IS TOO LARGE FOR GITHUB CREATE YOURELF WITH THE PROVIDED CODE OR CONTACT THE AUTHOR FOR ACCESS
 * OutcomeData_AllSlope.csv - Gap and loss data by VDC without observations at steep topographic slopes removed
-* AllForestLosses.shp - All forest loss patches
-* PrecedingGaps.shp - All forest gaps not overlapping with losses
+* AllForestLosses.shp - All forest loss patches. THIS FILE IS TOO LARGE FOR GITHUB CREATE YOURELF WITH THE PROVIDED CODE OR CONTACT THE AUTHOR FOR ACCESS
+* PrecedingGaps.shp - All forest gaps not overlapping with losses. THIS FILE IS TOO LARGE FOR GITHUB CREATE YOURELF WITH THE PROVIDED CODE OR CONTACT THE AUTHOR FOR ACCESS
 * VDCPROUTnew2.csv - Precipitation anomaly measure calculated using functional halfspace depth
 * FullSummaryDataset.csv - Full dataset with all predictor and outcome variables summarized at the VDC level
 
