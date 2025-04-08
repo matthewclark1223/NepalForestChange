@@ -34,8 +34,8 @@ There are four categories of scripts used in this paper: 1) Data acquisition and
 * StatsFigures - Some figures shown in the supplemental
 
 ## Data:
-* BaselineVDCPrecipitation.csv - Daily precipitation for each VDC 1981 - 1990
-* VDCPrecipitation.csv - Daily precipitation for each VDC 2018 - 2023
+* BaselineVDCPrecipitation.csv - Daily precipitation for each VDC 1981 - 1990. THIS FILE IS TOO LARGE FOR GITHUB CREATE YOURELF WITH THE PROVIDED CODE OR CONTACT THE AUTHOR FOR ACCESS
+* VDCPrecipitation.csv - Daily precipitation for each VDC 2018 - 2023. THIS FILE IS TOO LARGE FOR GITHUB CREATE YOURELF WITH THE PROVIDED CODE OR CONTACT THE AUTHOR FOR ACCESS
 * Nepal_NationalParks.shp - All IUCN category II protected areas in Nepal. Compiled from the World Protected Areas Database.
 * gadm41_NPL_4.shp - Administrative boundaries for Nepal
 * FUG_Final.csv - Forest user groups from ForestActionNepal
