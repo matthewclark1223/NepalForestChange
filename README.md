@@ -9,6 +9,7 @@ There are four categories of scripts used in this paper: 1) Data acquisition and
 * MatchFUG_Shp.R - Use fuzzy matching to match VDC names from the GADM database to the sheet provided by ForestAction Nepal
 * Baseline_VDC_Precip.R - Use the Google Earth Engine connection with R to pull baseline (1980s) precipitation data
 * GEE_VDC_Precip.R - Use the Google Earth Engine connection with R to pull VDC precipitation data for the study period
+* PrecipitationAnomaly.R - Code to compute the functional halfspace depth of precipitation for each VDC
 * Deprivation.R - Calculate deprivation summary statistics by VDC
 * Migration.R - Calculate migration summary statistics by VDC
 * Population.R - Calculate population summary statistics by VDC
