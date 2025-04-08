@@ -5,7 +5,7 @@ The code and data are provided here to allow readers to reproduce the analyses a
 There are four categories of scripts used in this paper: 1) Data acquisition and cleaning (including precipitation anomaly calculation); 2) Spatial processes for creating and summarizing loss/gap patches; 3) Statistical analyses; and 4) Ancillary scripts for various supplemental analyses and figures. 
 
 ## Scripts:
-### Data acqusition and cleaning
+### Data acquisition and cleaning
 * MatchFUG_Shp.R - Use fuzzy matching to match VDC names from the GADM database to the sheet provided by ForestAction Nepal
 * Baseline_VDC_Precip.R - Use the Google Earth Engine connection with R to pull baseline (1980s) precipitation data
 * GEE_VDC_Precip.R - Use the Google Earth Engine connection with R to pull VDC precipitation data for the study period
