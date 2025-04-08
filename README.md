@@ -40,10 +40,10 @@ There are four categories of scripts used in this paper: 1) Data acquisition and
 * gadm41_NPL_4.shp - Administrative boundaries for Nepal
 * FUG_Final.csv - Forest user groups from ForestActionNepal
 * Nepal_fug.shp - Forest user groups matched to GADM administrative boundaries
-* ForestChange.tif - Compressed raster showing forest losses (contact Matt Clark for non-compressed tiles)
-* LC_Classification.tif - Compressed raster showing land cover (contact Matt Clark for non-compressed tiles)
-* LC_Classification_SIMPLE.tif - Land cover raster simplified just to show non-forest
-* povmap-grdi-v1.tif - Deprivation raster
+* ForestChange.tif - Compressed raster showing forest losses (contact Matt Clark for non-compressed tiles). THIS FILE IS TOO LARGE FOR GITHUB CREATE YOURELF WITH THE PROVIDED CODE OR CONTACT THE AUTHOR FOR ACCESS
+* LC_Classification.tif - Compressed raster showing land cover (contact Matt Clark for non-compressed tiles). THIS FILE IS TOO LARGE FOR GITHUB CREATE YOURELF WITH THE PROVIDED CODE OR CONTACT THE AUTHOR FOR ACCESS
+* LC_Classification_SIMPLE.tif - Land cover raster simplified just to show non-forest. THIS FILE IS TOO LARGE FOR GITHUB CREATE YOURELF WITH THE PROVIDED CODE OR CONTACT THE AUTHOR FOR ACCESS
+* povmap-grdi-v1.tif - Deprivation raster. THIS FILE IS TOO LARGE FOR GITHUB CREATE YOURELF WITH THE PROVIDED CODE OR CONTACT THE AUTHOR FOR ACCESS
 * Migration_2000_2019_5yrSum.tif - Human migration raster
 * landscan-global-2022.tif - Human population raster
 * hotosm_npl_roads_lines_shp.shp - Roads shapefile
